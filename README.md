@@ -20,4 +20,4 @@ About the attribute information, please refer to [data dictionary.ipynb](https:/
 # Introduction:
 My model is divided into two parts: [EDA](https://github.com/Trihamhochoi/Poland-Bankruptcy/blob/main/EDA.ipynb) and [the classification](https://github.com/Trihamhochoi/Poland-Bankruptcy/blob/main/Classification_Decision_tree.ipynb) by 2 models (Random Forest and Gradient Booster).
 
-Simultaneously, I will compare the performance and running time of  2 models and select the appropriate model. As well as I will validate the model by the confusion report.  
+Simultaneously, I will compare the performance and running time of  2 models and select the appropriate model.In addition, I will validate the model using the confusion report to tune tune hyperparameters effectively.
